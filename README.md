@@ -31,7 +31,7 @@ Execute the program using runserver command.
     <br>
     <table border="1" cellspacing="2" cellpadding="5" align="center">
         <caption align="center" style="color: brown;">
-            <b>TIME TABLE - Mithik jain(24001881)</b> 
+            <b>TIME TABLE - Praveen Raj G(24010690)</b> 
             <p>   </p>
         </caption>
         <tr>
