@@ -61,10 +61,10 @@ Execute the program using runserver command.
         <tr>
             <th>12:00-1:00</th>
             <th>L</th>
-            <th>U</th>
-            <th>N</th>
-            <th>C</th>
-            <th>H</th>
+            <th>E</th>
+            <th>A</th>
+            <th>V</th>
+            <th>E</th>
         </tr>
         <tr>
             <th>1:00-3:00</th>
@@ -129,7 +129,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Screenshot (161)](https://github.com/user-attachments/assets/80f014fa-b4df-45fa-8eea-61e7938fe604)
+![Screenshot (162)](https://github.com/user-attachments/assets/dbcc7fe6-1133-4c1d-8e30-c32a491d9e48)
+
 
 
 
